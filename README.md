@@ -1,5 +1,7 @@
 # Despliegue
 
+(Nota: AL final y después de tener problemas con mi grupo del proyecto, he hecho el despliegue con el .war y la base de datos del grupo de Dani Valcarce y Toni Feliu)
+
 ## Introducción
 
 Vamos a utilizar docker compose que nos permitirá arrancar los contenedores en los que se encuentrán la base de datos, el Tomcat y PHP para realizar el despliegue de nuestra aplicacíon.<br><br>
@@ -41,4 +43,7 @@ Llegados a este punto la aplicación ya estaría desplegada y como hemos configu
 
  
 ![COMP6](https://user-images.githubusercontent.com/91564326/172458632-02c8685b-f90c-40e0-9e7f-8cb868ad65ff.png)
+
+## Conclusiones ##
+El despliegue se ha realizado con éxito, aunque he tenido problemas para construir la imagen y hacer el push.
 
